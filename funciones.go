@@ -9,4 +9,5 @@ func main()  {
 	fmt.Scan(&b)
 	fmt.Println("Tu numero favorito es: ", b)
 	fmt.Println("Linea de implementacion")
+	fmt.Println("Una modificacion mas")
 }
